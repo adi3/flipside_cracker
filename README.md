@@ -1,6 +1,6 @@
 # Flipside Cracker
 
-An extension for Google Chrome that solves the weekly challenges released by The Stanford Flipside (TSF) with the click of a button! Install it here: https://chrome.google.com/webstore/detail/flipside-cracker/ackdccicagmfbejojcgknoffhocgcdfe
+An extension for Google Chrome that solves the weekly challenges released by The Stanford Flipside (TSF) with the click of a button! Find it in the Chrome Web Store [here](https://chrome.google.com/webstore/detail/flipside-cracker/ackdccicagmfbejojcgknoffhocgcdfe).
 
 ## Notes
 
