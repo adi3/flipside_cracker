@@ -14,5 +14,7 @@
   },
 
   "background": { "scripts": [ "background.js"] },
-  "permissions": [ "http://stanfordflipside.com/" ]
+  "permissions": [ "http://stanfordflipside.com/" ],
+
+  "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'"
 }
