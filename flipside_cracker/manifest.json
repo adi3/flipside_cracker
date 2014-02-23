@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Flipside Cracker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Solves the weekly challenges released by Stanford Flipside with the click of a button!",
 
   "icons": {
